@@ -1,0 +1,206 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.23)  2 JUN 2021 03:57
+entering extended mode
+**./untitled-1.tex
+(untitled-1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-11> (E:\MiKTeX 2.9\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(E:\MiKTeX 2.9\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(E:\MiKTeX 2.9\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(E:\MiKTeX 2.9\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\MiKTeX 2.9\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(E:\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(E:\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(E:\MiKTeX 2.9\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(E:\MiKTeX 2.9\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count187
+\c@continuedfloat=\count188
+)
+(E:\MiKTeX 2.9\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count189
+\c@subtable=\count190
+)
+(E:\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box47
+) (untitled-1.aux
+
+LaTeX Warning: Label `fig:tiantan' multiply defined.
+
+
+LaTeX Warning: Label `fig:tiantan' multiply defined.
+
+
+LaTeX Warning: Label `fig:tiantan' multiply defined.
+
+
+LaTeX Warning: Label `fig:y equals x' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:y equals x' multiply defined.
+
+)
+\openout1 = `untitled-1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (E:\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen148
+\scratchbox=\box48
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen149
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks17
+) (E:\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(E:\MiKTeX 2.9\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/Users/13207/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<tiantan.jpg, id=7, 1027.84pt x 685.56125pt>
+File: tiantan.jpg Graphic file (type jpg)
+<use tiantan.jpg>
+Package pdftex.def Info: tiantan.jpg  used on input line 26.
+(pdftex.def)             Requested size: 345.0pt x 230.11687pt.
+ [2
+
+ <./tiantan.jpg>]
+<origin.png, id=11, 367.6134pt x 324.7332pt>
+File: origin.png Graphic file (type png)
+<use origin.png>
+Package pdftex.def Info: origin.png  used on input line 33.
+(pdftex.def)             Requested size: 345.0pt x 304.76862pt.
+ [3
+
+ <./origin.png (PNG copy)>]
+File: origin.png Graphic file (type png)
+<use origin.png>
+Package pdftex.def Info: origin.png  used on input line 40.
+(pdftex.def)             Requested size: 345.0pt x 304.76862pt.
+ [4
+
+]
+File: origin.png Graphic file (type png)
+<use origin.png>
+Package pdftex.def Info: origin.png  used on input line 47.
+(pdftex.def)             Requested size: 195.28291pt x 172.5pt.
+<selfRot.png, id=18, 365.86688pt x 280.04625pt>
+File: selfRot.png Graphic file (type png)
+<use selfRot.png>
+Package pdftex.def Info: selfRot.png  used on input line 59.
+(pdftex.def)             Requested size: 138.00052pt x 105.62813pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 60.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+File: selfRot.png Graphic file (type png)
+<use selfRot.png>
+Package pdftex.def Info: selfRot.png  used on input line 66.
+(pdftex.def)             Requested size: 103.50105pt x 79.2243pt.
+ [5
+
+ <./selfRot.png>]
+File: selfRot.png Graphic file (type png)
+<use selfRot.png>
+Package pdftex.def Info: selfRot.png  used on input line 74.
+(pdftex.def)             Requested size: 345.0pt x 264.08957pt.
+ [6
+
+] (untitled-1.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2539 strings out of 479129
+ 43416 string characters out of 2867538
+ 336800 words of memory out of 3000000
+ 20203 multiletter control sequences out of 15000+600000
+ 405858 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,63p,424b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on untitled-1.pdf (6 pages, 1099506 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

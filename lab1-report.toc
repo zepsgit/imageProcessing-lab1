@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Basic Transformation}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Code Except Translation}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Code For Translation}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Code For Rotation Followed by Translation}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Code For Comparison between Built-in and Self-defined Rotation}{4}{}%
+\contentsline {subsection}{\numberline {1.5}Outcome Set \uppercase {i\relax }}{4}{}%
+\contentsline {section}{\numberline {2}Histogram Equalization}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Code For Equalization}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Outcome Set \uppercase {ii\relax }}{7}{}%
+\contentsline {section}{\numberline {3}Discussion}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Why black dots after rotation?}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Why the equalization not quite even?}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Why different execution speed?}{8}{}%
